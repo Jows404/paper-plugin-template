@@ -1,0 +1,13 @@
+# Messages configuration
+prefix: "&8[&6Template&8]&r"
+
+messages:
+  enabled: "{prefix} &aPlugin enabled"
+  disabled: "{prefix} &cPlugin disabled"
+  no-permission: "{prefix} &cYou don't have permission to use this command"
+  reloaded: "{prefix} &aConfiguration reloaded"
+  unknown-command: "{prefix} &cUnknown command. Use /template help"
+  player-only: "{prefix} &cThis command can only be used by players"
+
+  # Plugin-specific messages go here
+  example: "&7This is an example message"

@@ -1,0 +1,36 @@
+#        [Plugin Name] Configuration    #
+#============================================#
+# Plugin by: Jows404
+# Version: 1.0
+# Social Media: https://www.youtube.com/@Jows404
+# Support: https://discord.gg/tymMfd2KC9
+
+# Enable or disable the plugin
+enabled: true
+
+# Config Version
+config-version: 1
+
+#============================================#
+#            SETTINGS                        #
+#============================================#
+settings:
+
+
+
+#============================================#
+#           ADVANCED SETTINGS                #
+#============================================#
+
+advanced:
+
+  check-updates: true
+
+  # Send anonymous usage statistics
+  # Helps improve the plugin
+  # Default: true
+  metrics: true
+
+
+
+

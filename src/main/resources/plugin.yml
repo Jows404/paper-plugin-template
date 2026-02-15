@@ -1,0 +1,16 @@
+name: PluginTemplate
+version: '1.0'
+main: me.jows404.pluginTemplate.PluginTemplate
+api-version: '1.21'
+author: Jows404
+
+commands:
+  template:
+    description: Main plugin command
+    usage: /command <reload | help>
+    aliases: [tplt, tp]
+
+permissions:
+  template.admin:
+    description: Administrative commands
+    default: op
