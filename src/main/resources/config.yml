@@ -3,7 +3,8 @@
 # Plugin by: Jows404
 # Version: 1.0
 # Social Media: https://www.youtube.com/@Jows404
-# Support: https://discord.gg/tymMfd2KC9
+# GitHub: https://github.com/Jows404
+# Discord: https://discord.gg/tymMfd2KC9
 
 # Enable or disable the plugin
 enabled: true
@@ -15,7 +16,6 @@ config-version: 1
 #            SETTINGS                        #
 #============================================#
 settings:
-
 
 
 #============================================#

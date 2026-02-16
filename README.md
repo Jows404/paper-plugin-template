@@ -28,9 +28,15 @@ See `config.yml` for all options
 3. Restart server
 4. Configure `config.yml`
 
+## Connect
+- [YouTube] https://www.youtube.com/@Jows404
+- [Discord] https://discord.gg/tymMfd2KC9
+
 ## Support
-- Discord: https://discord.gg/tymMfd2KC9
-- Issues: GitHub or Discord
+If this template helped you, consider:
+- ⭐ Starring the repo
+- 📤 Sharing with friends
+- Buying one of my plugins: https://builtbybit.com/members/jows404.729688/
 
 ## Developer
 Jows404
